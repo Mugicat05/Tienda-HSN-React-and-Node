@@ -20,5 +20,4 @@ Incluye autenticación con **JWT (access y refresh tokens)**, integración con *
 - **Base de datos**: MongoDB
 - **Autenticación**: JWT (jsonwebtoken)
 
-
 ![Node.js](https://www.svgrepo.com/show/303360/nodejs-logo.svg)
