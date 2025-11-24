@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Gestión de Direcciones - Angular
 
 Proyecto académico y práctico para la gestión de direcciones de clientes en una aplicación web.  
@@ -22,6 +21,3 @@ Incluye autenticación con **JWT (access y refresh tokens)**, integración con *
 - **Autenticación**: JWT (jsonwebtoken)
 
 ![Node.js](https://www.svgrepo.com/show/303360/nodejs-logo.svg)
-=======
-# Tienda-HSN-React-and-Node
->>>>>>> 2e4c72b79f69acb28da1ebb7d99f84f73ad71298
